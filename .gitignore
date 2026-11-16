@@ -1,0 +1,33 @@
+# Fichiers compilés
+*.class
+*.jar
+*.war
+*.ear
+
+# Dossiers de build NetBeans / Ant
+build/
+dist/
+out/
+target/
+
+# Config locale NetBeans (propre à chaque machine)
+**/nbproject/private/
+nb-configuration.xml
+
+# Autres IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
